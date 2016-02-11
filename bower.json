@@ -1,0 +1,30 @@
+{
+  "name": "fink-is-uri",
+  "description": "Check if a URI is valid to be shortened.",
+  "homepage": "https://github.com/finkhq/fink-is-uri",
+  "version": "0.0.0",
+  "main": "./dist/fink-is-uri.js",
+  "authors": [
+    {
+      "email": "",
+      "name": "fink",
+      "url": "https://github.com/finkhq"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finkhq/fink-is-uri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/finkhq/fink-is-uri/issues"
+  },
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}

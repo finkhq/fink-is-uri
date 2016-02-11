@@ -21,7 +21,10 @@
     "valid",
     "🐀"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "is-uri": "~1.2.0",
+    "parse-uri": "~1.0.0"
+  },
   "devDependencies": {
     "browserify": "latest",
     "coffee-script": "latest",

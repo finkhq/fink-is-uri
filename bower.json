@@ -2,7 +2,7 @@
   "name": "fink-is-uri",
   "description": "Check if a URI is valid to be shortened.",
   "homepage": "https://github.com/finkhq/fink-is-uri",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./dist/fink-is-uri.js",
   "authors": [
     {
